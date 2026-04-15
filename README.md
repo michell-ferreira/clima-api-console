@@ -19,6 +19,7 @@ Projeto de uma aplicação de console desenvolvida em Java para buscar e exibir 
 > **Nota de Contexto**
 >
 > Este projeto foi desenvolvido como um laboratório prático para dominar a comunicação do Java com serviços web. O foco principal foi criar um código limpo para realizar requisições HTTP (usando as bibliotecas nativas do Java), processar respostas em formato JSON e garantir a segurança de dados sensíveis (API Key).
+* A base inicial deste projeto foi construída a partir do curso "Java Completo". Deixo aqui os devidos créditos ao professor Arnaldo Sousa pelo excelente conteúdo.
 -------------------------------------------------------------
 
 A aplicação permite ao usuário digitar o nome de qualquer cidade no terminal e obter as condições climáticas atuais de forma rápida e formatada.
