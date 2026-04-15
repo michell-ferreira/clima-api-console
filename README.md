@@ -11,7 +11,7 @@ Projeto de uma aplicação de console desenvolvida em Java para buscar e exibir 
 
 ## 📸 Demonstração em vídeo
 
-<a href="https://youtu.be/ZZXqkXe_7kA">Assista a uma demonstração da aplicação em funcionamento</a>
+<a href="https://youtu.be/wZuArXO1tQI">Assista a uma demonstração da aplicação em funcionamento</a>
 
 ---
 
