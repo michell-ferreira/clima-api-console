@@ -42,7 +42,7 @@ Certifique-se de ter o **Java JDK 21** e o **Maven** instalados.
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/michell-ferreira/clima-api-console.git](https://github.com/michell-ferreira/clima-api-console.git)
+git clone https://github.com/michell-ferreira/clima-api-console
 
 # 2. Acesse a pasta do projeto
 cd clima-api-console
@@ -53,3 +53,14 @@ cd clima-api-console
 
 # 4. Compile e execute a aplicação via Maven
 mvn clean compile exec:java -Dexec.mainClass="org.example.Main"
+
+```
+
+## ✒️ Autor
+
+**Michell Ferreira**
+
+* **GitHub:** [michell-ferreira](https://github.com/michell-ferreira)
+* **LinkedIn:** [ferreira-michel](https://www.linkedin.com/in/ferreira-michel/)
+
+---
